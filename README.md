@@ -18,8 +18,7 @@ This project builds a machine learning model to classify objects detected by son
 - Explored model interpretation using confusion matrix
 - Evaluated potential improvements using other algorithms like SVM and Random Forest
 
-## 💼 Interview Preparation
-Check out the [Sonar_Project_Interview_QA.pdf](./Sonar_Project_Interview_QA.pdf) for detailed technical questions and answers based on this project.
+
 
 ## 🛠️ Technologies
 - Python
